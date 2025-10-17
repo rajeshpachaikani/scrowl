@@ -257,7 +257,7 @@ HomeScreen
 │       └── IconButton (Submit)
 ├── Body (conditional)
 │   ├── HomeFeed (index=0)
-│   │   └── Consumer<TriviaService, UserService>
+│   │   └── Consumer2<TriviaService, UserService>
 │   │       └── RefreshIndicator
 │   │           └── ListView.builder
 │   │               └── TriviaCardWidget (multiple)

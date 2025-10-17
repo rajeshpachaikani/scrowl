@@ -137,7 +137,7 @@ Go to Firebase Console → Firestore → Start collection "trivia":
   "source": "Scientific consensus",
   "isSponsored": false,
   "likes": 0,
-  "createdAt": "2025-10-17T00:00:00.000Z"
+  "createdAt": "2024-01-01T00:00:00.000Z"
 }
 ```
 
